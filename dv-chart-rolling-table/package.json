@@ -11,5 +11,14 @@
   "dependencies": {
     "jquery": "^2.2.3",
     "lodash": "^4.12.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinnified/dvcoms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jinnified/dvcoms/issues"
+  },
+  "homepage": "https://github.com/Jinnified/dvcoms#readme"
 }
