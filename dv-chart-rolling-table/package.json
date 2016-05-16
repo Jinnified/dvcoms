@@ -1,0 +1,15 @@
+{
+  "name": "dv-chart-rolling-table",
+  "version": "0.0.2",
+  "description": "auto scrolling table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jin",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "lodash": "^4.12.0"
+  }
+}
